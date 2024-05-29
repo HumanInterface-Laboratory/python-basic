@@ -3,8 +3,8 @@
 # python-basic
 Pyhon環境構築の勉強会で使用するプログラム集
 
-#### リポジトリの概要
-| フォルダ | 概要 |
+### リポジトリの概要
+| ファイル名 | 概要 |
 | :-- | :-- |
 | [`practice.py`](/practice.py) | 仮想環境の動作チェック |
 | [`practice.ipynb`](/practice.ipynb) | Jupyter Notebookの動作チェック |
